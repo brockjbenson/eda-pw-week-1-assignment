@@ -9,3 +9,43 @@
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+body {
+   color:darkblue;
+   background-color: darkgrey;
+   font-family: sans-serif, helveitca;
+}
+footer, header {
+   color: darkblue;
+}
+h1 {
+   font-size: 60px;
+   text-align: center;
+   font-style: italic;
+   border: 3px solid darkblue;
+   background-color: aliceblue;
+}
+.image {
+   max-width: 800px;
+   border-radius: 20px;
+   float: left;
+   margin-right: 40px;
+   border: 3px solid darkblue;
+   border-color: darkblue;
+}
+.list {
+   font-family: monospace;
+   font-size: 30px;
+   line-height: 100px;
+   font-style: italic;
+   position: relative;
+   left: 15px;
+   bottom:  15px;
+}
+p {
+   font-style: italic;
+   font-size: 20px;
+   display:flex;
+   justify-content: center;
+   align-items: flex-end;
+  
+}
