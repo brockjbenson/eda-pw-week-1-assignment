@@ -16,13 +16,14 @@ body {
 }
 footer, header {
    color: darkblue;
+   background-color: aliceblue;
 }
 h1 {
    font-size: 60px;
    text-align: center;
    font-style: italic;
    border: 3px solid darkblue;
-   background-color: aliceblue;
+   
 }
 .image {
    max-width: 800px;
