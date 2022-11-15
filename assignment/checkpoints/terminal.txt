@@ -9,7 +9,7 @@
 # 4 - What is a quick way to create a new folder?
 # mkdir
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
-# no such file or directory yet, and it would show the branch of the files in the folder if it had files
+# to see nothing, and it would show the branch of the files in the folder if it had files
 # 6 - What is a quick way to create a new file?
 # touch and then the file you want to make
 # 7 - Run 'git --version' in your terminal. What is the output?
