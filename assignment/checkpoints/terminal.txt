@@ -15,7 +15,7 @@
 # 7 - Run 'git --version' in your terminal. What is the output?
 # git version 2.15.0
 # 8 - Why would you run the command 'git status'?
-# it shows which changes are staged and which ones haven't but also if there are ones not being tracked
+# git status is used to compare saved changes in your files to the files that are currently in git
 # 9 - What does the command 'git add .' do?
 # it gets the files ready to be committed
 # 10 - What is the command to push your committed changes to your repo on GitHub?
